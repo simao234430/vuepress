@@ -1,5 +1,5 @@
 module.exports = {
-  port:8099,
+  port:8092,
   title: '肖总教java',
   serviceWorker: {},
   markdown: {
